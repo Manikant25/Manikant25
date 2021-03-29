@@ -5,6 +5,5 @@
  🤔 I’m looking for help with deveopment  <br>
  💬 Ask me about Data Structure  <br>
  📫 How to reach me: manikant.rai2000@gmail.com  <br>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
