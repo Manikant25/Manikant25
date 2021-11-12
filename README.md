@@ -1,6 +1,6 @@
 ### Hi there 👋 <br>
  🔭 I’m currently working on DS Algo  <br>
- 🌱 I’m currently learning Android Devlopment  <br>
+ 🌱 I’m currently learning Android Developemnt in Kotlin <br>
  👯 I’m looking to collaborate on Open Source project  <br>
  🤔 I’m looking for help with deveopment  <br>
  💬 Ask me about Data Structure  <br>
